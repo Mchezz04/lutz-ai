@@ -1,0 +1,32 @@
+# .gitignore
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Файлы окружения (с ключами!)
+.env
+.env.local
+*.env
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit
+.streamlit/
+
+# Результаты работы приложения
+*.md
+output.md
+chapter_*.txt
+*.txt
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
