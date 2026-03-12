@@ -22,7 +22,7 @@ __pycache__/
 *.md
 output.md
 chapter_*.txt
-*.txt
+# *.txt
 
 # Системные файлы
 .DS_Store
